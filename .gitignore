@@ -21,6 +21,8 @@ install_manifest.txt
 osi_version.proto
 version.py
 
+compile_commands.json
+
 # Eclipse-specific files, if any
 *.cproject
 *.project
